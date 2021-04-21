@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is a demonstration for CI/CD with Github Actions</p>
+        <p>This is deployed on Heroku.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
